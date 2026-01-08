@@ -1,8 +1,6 @@
 # Advertising Data Analysis Using [![TOC](https://img.shields.io/badge/Theory%20of%20Constraints-TOC-blue)](https://en.wikipedia.org/wiki/Theory_of_constraints)
 
-
-
-
+---
 
 ## Project Overview
 This project applies the **Theory of Constraints (TOC)** to analyze advertising data and identify the factor that limits overall sales performance.  
@@ -17,6 +15,13 @@ The objective is to identify the **constraint** in the system and optimize adver
 - Identify the system constraint using TOC principles
 - Improve marketing efficiency by reallocating budget
 - Provide data-driven business recommendations
+
+---
+
+## Images
+![Regression Visualization](image/Regression%20Visualization.png)
+<img src="image/Residual%20Normality%20Check.png" alt="Residual Normality" width="400">
+
 
 ---
 
