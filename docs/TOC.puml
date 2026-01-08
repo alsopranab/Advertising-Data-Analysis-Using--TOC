@@ -1,6 +1,6 @@
-@alsopranab
+@startmindmap
 
-* Theory of Constraints (TOC) ~ Dr. E. M Goldratt
+* Theory of Constraints (TOC)
 
 ** Core Idea
 *** Every system has at least one constraint
@@ -88,3 +88,5 @@
 *** Transformation Plan
 **** Converts trees into execution roadmap
 **** Assigns actions and priorities
+
+@endmindmap
