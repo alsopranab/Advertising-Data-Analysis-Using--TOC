@@ -92,8 +92,3 @@ By removing or minimizing this constraint, the organization can significantly im
 - Matplotlib / Seaborn
 - Correlation Analysis
 - TOC Methodology
-
----
-
-## 📌 Author
-Pranab Debnath
